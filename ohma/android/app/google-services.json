@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "353684034425",
+    "firebase_url": "https://gobooking-8cb01-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gobooking-8cb01",
+    "storage_bucket": "gobooking-8cb01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353684034425:android:f16fee5feb7729b48755a8",
+        "android_client_info": {
+          "package_name": "com.example.demo_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353684034425-5mm6ltrnvelej9s1oq9oum8j8dmc5q8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo_project",
+            "certificate_hash": "196ad32cba685707fc07ddc5248a1b437f0ad3ab"
+          }
+        },
+        {
+          "client_id": "353684034425-robtnn0tkf00fpat2ql4t4l0n3glbj2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA57dHsvNY7p51MOh1h8GNEu6Rx5NvZcI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353684034425-robtnn0tkf00fpat2ql4t4l0n3glbj2t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353684034425-0f7u669itkem39t3jggkreagsujbjork.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demoProject.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353684034425:android:45d55316e1c756448755a8",
+        "android_client_info": {
+          "package_name": "com.example.gobooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353684034425-j0ssqavgolq8ijnqlgkdofpd8vrebehk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gobooking",
+            "certificate_hash": "196ad32cba685707fc07ddc5248a1b437f0ad3ab"
+          }
+        },
+        {
+          "client_id": "353684034425-robtnn0tkf00fpat2ql4t4l0n3glbj2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA57dHsvNY7p51MOh1h8GNEu6Rx5NvZcI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353684034425-robtnn0tkf00fpat2ql4t4l0n3glbj2t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353684034425-0f7u669itkem39t3jggkreagsujbjork.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demoProject.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
